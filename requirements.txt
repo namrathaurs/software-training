@@ -42,3 +42,7 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=6,<7
 bqplot
+
+# Bespoke dependencies for software training purposes
+matplotlib
+matplotlib
