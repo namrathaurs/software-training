@@ -44,5 +44,7 @@ plotly>=6,<7
 bqplot
 
 # Bespoke dependencies for software training purposes
+numpy
+pandas
 matplotlib
-matplotlib
+awkward
